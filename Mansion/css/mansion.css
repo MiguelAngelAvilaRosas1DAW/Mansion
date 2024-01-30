@@ -1,0 +1,36 @@
+/********************************************/
+/* Estilo de la receta (especifico)         */
+/* Author: Miguel Ángel Ávila Rosas         */
+/* Version: 0.1                             */
+/* Created on: January 23, 2024             */
+/* Updated on: January 23, 2024             */
+/********************************************/
+
+/*Font Styles*/
+@font-face {
+    src: url(../fonts/Pumpkinhunter-Ea0g4.otf);
+    font-family: texto;
+}
+
+@font-face {
+    src: url(../fonts/MonsterPumpkin-MVBzP.ttf);
+    font-family: titulo;
+}
+
+body {
+    background-image: url(../img/bg.png);
+    font-family: texto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {font-family: titulo;}
+
+h1, h2, h5 {font-family: titulo;}
+
+.pt-6 {margin-top: 5.5em;}
+
+.bg-green {
+            background-color: rgb(32, 176, 0);
+            color: #fff;
+           }
