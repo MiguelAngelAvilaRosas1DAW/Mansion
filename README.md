@@ -46,18 +46,19 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 <p>In this section, there are cards for the main creators of th game, like the main director <a href="https://es.wikipedia.org/wiki/Hideki_Konno" target="_blank">Hideki Konno</a>, the art designer
 <a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" target="_blank">Kazumi Totaka</a> and the main music composer <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" target="_blank">Tadashi Sugiyama</a></p>
 
-<h3>FanArt</h3>
+<h3>Ghost Gallery</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
-<p>In this last section, I decided to showcase many of the best "FanArts" of the mod. All of these have an extraordinary level of effort, and that's why I believe they deserve an appearance. This part functions as a "gallery", and its code snippet will be at the end of the "readme".</p>
+<p>In Luigi's mansion you can capture an entire ghost family, and once you do it, you turn them into pictures, so I decided to make a section with all
+the ghost pictures.</p>
 
-<h3>Footer</h3>
-<img src="./Readme-img/Readme-Footer.png" alt="Image of the 'Footer' section" style="width:50%">
-<p>The footer includes the game icon image, as well as a summarized version of the navigation bar. In addition, my social media links for YouTube (which features gameplay of this version) and LinkedIn are included.</p>
+<h3>Contacts</h3>
+<img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
+<p>In this section you'll find information to contact me, along with a space to regist in the page.</p>
 
 <h2 id="style">Page Style</h2>
 
 <h3>Color Palette</h3>
-<p>I get the colors of my page based on the color of the corrupted characters of the game, I didn't search for any page.</p>
+<p>The game itself is pretty dark, so I decided to use a dark background with white text, along with spooky fonds to make it look scary.</p>
 
 <h3>Typography</h3>
 <p>Here are the links for the two fonts that I used in my project:</p>
@@ -68,7 +69,7 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 </ul>
 
 <h3>Images</h3>
-<p>All the images and videos belongs to <a href="https://twitter.com/FCReimagined" target="_blank">The Reimagened Team</a> and <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, except for the <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>'s icon, which belongs to him.</p>
+<p>All the pictures come from the <a href="https://www.mariowiki.com/Luigi%27s_Mansion" target="_blank">Super Mario Wiki</a></p>
 
 <h3>Videos</h3>
 <p>The trailer comes from <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>'s youtube channel.</p>
