@@ -1,5 +1,5 @@
 <h1>Project Memory for Markup Languages Evaluation - 1st DAW</h1>
-<h2>CRBV - Official Website</h2>
+<h2>Luigi's Mansion - Info Page</h2>
 <h2>Index</h2>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -10,23 +10,23 @@
 
 <h2 id="introduction">Introduction</h2>
 <p>Work done by: Miguel Ángel Ávila Rosas</p>
-<p>Web project "from scratch" for the 1st Markup Languages evaluation</p>
-<p>December 2023</p>
+<p>Web project bootstrap for the 1st Markup Languages evaluation</p>
+<p>February 2024</p>
 <p>CC-BY License</p>
 
 <h2 id="motivation">Motivation</h2>
-<p>The chosen theme comes from a project I did in the summer. It involved taking a "Mod" from a popular game<br>
-and modifying it to suit my preferences, adding events, changing images, etc.</p>
+<p>The chosen theme comes from a gamecube game called Luigi's Mansion, it was the first game to ever come up from the console, and it was a very interesting choice to say the least.
+Nintendo was always used to show their console with a brand new Mario, but instead we get a "horror" game from Mario's little brother, Luigi, who by the time didn't have his own game.</p>
 
 <h2 id="structure">Structure</h2>
-<p>The website is divided into 6 sections:</p>
+<p>The website is divided into 6 sections (not counting the hero section and the footer):</p>
 <ul>
-  <li>Hero Section</li>
-  <li>Synopsis</li>
-  <li>OST (Game Soundtrack)</li>
+  <li>Hystory</li>
+  <li>Bosses</li>
+  <li>Mansions</li>
   <li>Authors</li>
-  <li>FanArt (Gallery)</li>
-  <li>Footer</li>
+  <li>Contacts</li>
+  <li>Ghost gallery</li>
 </ul>
 
 <h3>Hero Section</h3>
