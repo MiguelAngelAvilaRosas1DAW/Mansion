@@ -37,23 +37,14 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 <img src="./Readme-img/Readme-Synopsis.png" alt="Image of the 'Synopsis' section" style="width:50%">
 <p>Is divided in 4 colums, in each one shows a description of the main boss of the area and how to defeat it, along with an image of the boss itself.</p>
 
-<h3>OST (Game Soundtrack)</h3>
+<h3>Mansions</h3>
 <img src="./Readme-img/Readme-OST.png" alt="Image of the 'OST' section" style="width:50%">
-<p>This section contains the entire game's soundtrack, taken from the 5 composers who created the game:</p>
-
-<ul>
-  <li><a href="https://www.youtube.com/@funnymanisfunny" target="_blank">funny man</a></li>
-  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">Blazingrose</a></li>
-  <li><a href="https://www.youtube.com/@buttercakeee" target="_blank">buttercakeee</a></li>
-  <li><a href="https://www.youtube.com/@ValorGenesect" target="_blank">Valor Genesect</a></li>
-  <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
-</ul>
-
-<p>The icons are from the game, and they all belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
+<p>In this section you can have a look at all the possible mansions that you can get in the game, that depends on how much money you have at he end.</p>
 
 <h3>Authors</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
-<p>In this section, there are cards for the creator of the corruption mod, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, and the original creator of Funkin Corruption Reimagined, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, with links to their respective YouTube channels by clicking on their profile images.<br>The snippet of the cards will appear at the end of the "readme".</p>
+<p>In this section, there are cards for the main creators of th game, like the main director <a href="https://es.wikipedia.org/wiki/Hideki_Konno" target="_blank">Hideki Konno</a>, the art designer
+<a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" target="_blank">Kazumi Totaka</a> and the main music composer <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" target="_blank">Tadashi Sugiyama</a></p>
 
 <h3>FanArt</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
