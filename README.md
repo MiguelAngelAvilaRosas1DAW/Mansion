@@ -29,13 +29,13 @@ Nintendo was always used to show their console with a brand new Mario, but inste
   <li>Ghost gallery</li>
 </ul>
 
-<h3>Hero Section</h3>
+<h3>History</h3>
 <img src="./Readme-img/Readme-Hero.png" alt="Image of the 'Hero' section" style="width:50%">
-<p>The Hero section is composed of several images taken from the Mod's files. All images belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, the original Mod author. Below is a download button to download the mod and try it for yourself.</p>
+<p>It shows a little summary of the main plot of the game, along with the reveal trailer that was shown in the E3 (a game convention).</p>
 
-<h3>Synopsis</h3>
+<h3>Bosses</h3>
 <img src="./Readme-img/Readme-Synopsis.png" alt="Image of the 'Synopsis' section" style="width:50%">
-<p>The synopsis briefly covers the main story of the game, accompanied by its trailer next to it for context. Once again, the trailer was taken from the channel of <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
+<p>Is divided in 4 colums, in each one shows a description of the main boss of the area and how to defeat it, along with an image of the boss itself.</p>
 
 <h3>OST (Game Soundtrack)</h3>
 <img src="./Readme-img/Readme-OST.png" alt="Image of the 'OST' section" style="width:50%">
