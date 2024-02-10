@@ -61,19 +61,13 @@ the ghost pictures.</p>
 <p>The game itself is pretty dark, so I decided to use a dark background with white text, along with spooky fonds to make it look scary.</p>
 
 <h3>Typography</h3>
-<p>Here are the links for the two fonts that I used in my project:</p>
-
-<ul>
-  <li><a href="https://fonts.google.com/specimen/EB+Garamond" target="_blank">EBGaramond-Regular</a></li>
-  <li><a href="https://fontsgeek.com/fonts/Trajan-Pro-Regular" target="_blank">Trajan Pro Regular</a></li>
-</ul>
+<p><a href="https://www.fontspace.com/category/spooky" target="_blank">Here is the link where I found the two font types</a></p>
 
 <h3>Images</h3>
 <p>All the pictures come from the <a href="https://www.mariowiki.com/Luigi%27s_Mansion" target="_blank">Super Mario Wiki</a></p>
 
 <h3>Videos</h3>
-<p>The trailer comes from <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>'s youtube channel.</p>
-<p><a href="https://www.youtube.com/watch?v=zXgmTf7k1QI" target="_blank">Link to the trailer</a></p>
+<p><a href="https://www.youtube.com/watch?v=Qp4WwE_6nUc" target="_blank">Link to the trailer</a></p>
 
 <h2 id="snippets">Code Snippets</h2>
 <p>I have used the following:</p>
