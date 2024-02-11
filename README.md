@@ -72,8 +72,9 @@ the ghost pictures.</p>
 <h2 id="snippets">Code Snippets</h2>
 <p>I have used the following:</p>
 <ul>
-  <li><a href="https://www.w3schools.com/howto/howto_js_topnav_responsive.asp" target="_blank">TopNav</a></li>
-  <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Authors section cards</a></li>
-  <li><a href="https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp" target="_blank">Gallery</a></li>
-  <li><a href="https://www.w3schools.com/howto/howto_css_smooth_scroll.asp" target="_blank">Smooth Scroll</a></li>
+  <li><a href="https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works" target="_blank">TopNav</a></li>
+  <li><a href="https://getbootstrap.com/docs/5.3/migration/#accordion" target="_blank">Accordion</a></li>
+  <li><a href="https://getbootstrap.com/docs/5.3/components/card/#about" target="_blank">Authors section cards</a></li>
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/gallery/" target="_blank">Gallery</a></li>
+  <li><a href="https://getbootstrap.com/docs/4.3/components/forms/" target="_blank">Contact Form</a></li>
 </ul>
