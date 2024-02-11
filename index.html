@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Link CSS-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/mansion.css">
+
+    <!--Link to the Font Awesome page-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--Link favicon-->
+    <link rel="shortcut icon" href="./img/Boo-icon.png" type="image/x-icon">
+
+    <title>Luigi's Mansion</title>
+</head>
+<body class="bg-black text-white">
+    <div id="wrapper" class="container">
+
+<!-----------------------------------------------NAVBAR----------------------------------------------->
+      
+        <nav class="navbar navbar-dark bg-dark fixed-top">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="./img/eggad_logo.png" class="w-25" alt="Boo Icon"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Luigi's Mansion</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+              </div>
+              <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#history">History</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#bosses">Bosses</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#authors">Authors</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#mansions">Mansions</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#gallery">Gallery</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#contacts">Contacts</a>
+                  </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+<!--------------------------------------------HERO SECTION-------------------------------------------->
+        
+        <section id="hero" class="pt-6">
+          <div class="container">
+            <div class="row g-3">
+              <div class="col-lg-4">
+                <img src="./img/ghosts-1.png" alt="Main title" class="container-md">
+              </div>
+              <div class="col-lg-4">
+                <img src="./img/main_title.jpg" alt="Ghosts form the game" class="container-md">
+              </div>
+              <div class="col-lg-4">
+                <img src="./img/ghosts-2.png" alt="Ghosts form the game" class="container-md">
+              </div>
+            </div>
+          </div>
+          <h1 class="mt-3 text-center display-1">Info Page</h1>
+        </section>
+
+<!-----------------------------------------------HISTORY---------------------------------------------->
+        
+        <section id="history" class="py-5">
+          <h1 class="mb-5 text-center display-3">History summary</h1>
+          <div class="container text-center">
+            <div class="row">
+              <div class="col-xl">
+                <p class="text-justify fs-3 m-5">
+                  Luigi gets an invitation, stating that he won an entire mansion for himself!
+                  Excited, he tells this to his brother, who without hesitation, runs at full speed
+                  towards the address, Luigi follows him, but upon arriving, he realizes that things could
+                  not be as he expected.
+              </p>
+              </div>
+              <div class="col">
+                <!--Video del trailer-->
+                <div class="ratio ratio-16x9  w-sm-100 w-md-75 w-lg-50 mx-auto">
+                  <iframe src="https://www.youtube.com/embed/Qp4WwE_6nUc?si=NhbvE-jaOrN-FFGa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+<!----------------------------------------------BOSSES------------------------------------------------>
+
+        <section id="bosses" class="py-5">
+          <h1 class="mb-5 text-center display-3">Bosses</h1>
+          <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingOne">
+                <button class="accordion-button collapsed bg-black text-white border border-light" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                  Chauncey
+                </button>
+              </h2>
+              <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body bg-black text-white border border-light">
+                  <!--1º BOSS-->
+                  <div class="row">
+                    <div class="col-lg-12 mb-md-0 mt-2">
+                      <h2 class="mt-5 display-5 text-center">Chauncey</h2>
+                      <p class="fs-4 text-center">This little baby is the first boss of the game, but don't let him fool you!<br>
+                      This little guy can give you a headache if you don't know how to fight him!<br>
+                      To defeat him simply throw back the balls he throws at you, and then he will be vulnerable.</p>
+                    </div>
+                    <div class="col-lg-4 d-block mx-auto">
+                      <img src="./img/boss1.png" alt="Main title" class="container-md">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingTwo">
+                <button class="accordion-button collapsed bg-black text-white border border-light" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                  Bogmire
+                </button>
+              </h2>
+              <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body bg-black text-white border border-light">
+                  <!--2º BOSS-->
+                  <div class="row">
+                    <div class="col-lg-12 mb-md-0 mt-2">
+                      <h2 class="mt-5 display-5 text-center">Bogmire</h2>
+                      <p class="fs-4 text-center">Bogmire can be found in the cementary section of the game, he attacks by
+                        using his shadow, so be carefull!<br>To defeat him you'll have to use the shadows that he use to attack you,<br>
+                        create a ball with them and throw the ball back at him, and then he will be vulnerable.</p>
+                    </div>
+                    <div class="col-lg-4 d-block mx-auto">
+                      <img src="./img/boss2.png" alt="Main title" class="container-md">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingThree">
+                <button class="accordion-button collapsed bg-black text-white border border-light" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                  Boolossus
+                </button>
+              </h2>
+              <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body bg-black text-white border border-light">
+                  <!--3º BOSS-->
+                  <div class="row">
+                    <div class="col-lg-12 mb-md-0 mt-2">
+                      <h2 class="mt-5 display-5 text-center">Boolossus</h2>
+                      <p class="fs-4 text-center">This boss is one of the hardest bosses in the game.<br>
+                      This GIANT boo is a combination of lots of boos, that join their forces in a try to attack Luigi!<br>
+                      To defeat him, you'll have to get him closer to one of the unicorn statues surronding the area, and when he pops,<br>
+                      use the ice power to freeze all the boos and then capture them.<br>
+                    This, itself, is not so hard, but the problem comes when there is only ONE boo, because this last one will be very hard to catch.</p>
+                    </div>
+                    <div class="col-lg-4 d-block mx-auto">
+                      <img src="./img/boss3.png" alt="Main title" class="container-md">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingFour">
+                  <button class="accordion-button collapsed bg-black text-white border border-light" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                    King Boo
+                  </button>
+                </h2>
+                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body bg-black text-white border border-light">
+                    <!--FINAL BOSS-->
+                    <div class="row">
+                      <div class="col-lg-12 mb-md-0 mt-2">
+                        <h2 class="mt-5 display-5 text-center">King Boo</h2>
+                        <p class="fs-4 text-center">The king of all boos finally face Luigi! And he is not alone...<br>
+                        King Boo will use a Bowser custome to fight Luigi, using all the attacks of the original Bowser!<br>
+                        In order to defeat King Boo, you'll have to wait until he throw spike balls at you, and then throw them back at him!<br>
+                        By doing this, the Bowser custome will lose his head, and King Boo will leave the suit, then you can start to capture him.<br>
+                        Just be carefull with Bowser's head... ice breath...?</p>
+                      </div>
+                      <div class="col-lg-4 d-block mx-auto">
+                        <img src="./img/boss-final.png" alt="Main title" class="container-md">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+        </section>
+
+<!----------------------------------------------MANSIONS---------------------------------------------->
+
+<section id="mansions" class="py-5">
+  <h1 class="mt-5 text-center display-3">Mansions</h1>
+  <p class="text-justify fs-3 m-5 text-center">While Luigi explores the mansion, he can recolet a ton of money, like coins, dollars, diamonds...<br>
+     With all this money, Luigi is capable to buy a real Mansion for himself,<br>
+     and depending on how much money you have, you'll get a better mansion!<br>
+    Here are all the possible mansions you can get:</p>
+
+    <div class="row">
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_H.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade H Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_G.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade G Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_F.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade F Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_E.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade E Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_D.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade D Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_C.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade C Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_B.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade B Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_A.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade A Mansion">
+      </div>
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <img src="./img/Mansion_S.png" class="w-100 shadow-1-strong rounded mb-4" alt="Grade script Mansion">
+      </div>
+    </div>
+
+    <p class="text-justify fs-3 m-5 text-center">The last mansion is a new rank added in the 3DS remake of Luigi's Mansion.<br>
+    The real mansion that Luigi gets is the D-Rank one, because is the one that appears in the sequel.</p>
+
+</section>
+
+<!----------------------------------------------AUTHORS----------------------------------------------->
+       
+        <section id="authors" class="py-5">
+          <h1 class="mt-5 text-center display-3">Authors</h1>
+
+          <div class="container text-center">
+            <div class="row">
+
+              <!--CARD 1-->
+              <div class="card col-lg-3 d-block mx-auto mt-5">
+                <img src="./img/kazumi-totaka.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title fs-3">Kazumi Totaka</h5>
+                  <p class="card-text fs-4">Art designer</p>
+                  <a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" class="btn bg-green" target="_blank">More Info</a>
+                </div>
+              </div>
+
+              <!--CARD 2-->
+              <div class="card col-lg-3 d-block mx-auto mt-5">
+                <img src="./img/konno-hideki.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title fs-3">Hideki Konno</h5>
+                  <p class="card-text fs-4">Main director</p>
+                  <a href="https://es.wikipedia.org/wiki/Hideki_Konno" class="btn bg-green" target="_blank">More Info</a>
+                </div>
+              </div>
+
+              <!--CARD 3-->
+              <div class="card col-lg-3 d-block mx-auto mt-5">
+                <img src="./img/tadashi-sugiyama.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title fs-3">Tadashi Sugiyama</h5>
+                  <p class="card-text fs-4">Main music composer</p>
+                  <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" class="btn bg-green" target="_blank">More Info</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+<!-----------------------------------------------GALLERY---------------------------------------------->
+        
+        <section id="gallery" class="py-5">
+          <h1 class="mt-5 text-center display-3">Gallery</h1>
+          <p class="text-justify fs-3 m-5 text-center">
+            In this Luigi's Mansion, a praticular change from all the other ones that came after it,
+            is that you have to capture a haunted ghost family. Is theorised that they all died
+            in that mansion, very creepy if you ask me, even for Nintendo, and this would be the
+            creepyest detail in the game, if it wasn't for the old game over screen at the end of the
+            trailer.<br>Here are all the portraits of the ghost family once you capure them:
+          </p>
+          <section id="gallery">
+            <div class="row">
+              <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+                <img
+                  src="./img/Neville.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Neville"
+                />
+
+                <img
+                  src="./img/Lydia.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Lydia"
+                />
+              </div>
+
+              <div class="col-lg-4 mb-4 mb-lg-0">
+                <img
+                  src="./img/Melody.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Melody"
+                />
+
+                <img
+                  src="./img/Henry_Orville.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Henry and Orville"
+                />
+              </div>
+
+              <div class="col-lg-4 mb-4 mb-lg-0">
+                <img
+                  src="./img/Grimmly.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Grimmly"
+                />
+
+                <img
+                  src="./img/Luggs.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Luggs"
+                />
+              </div>
+
+              <div class="col-lg-4 mb-4 mb-lg-0">
+                <img
+                  src="./img/Pea.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Pea"
+                />
+
+                <img
+                  src="./img/Spooky.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Luggs"
+                />
+              </div>
+
+              <div class="col-lg-4 mb-4 mb-lg-0">
+                <img
+                  src="./img/Slim.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Slim"
+                />
+
+                <img
+                  src="./img/Clairvoya.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Clairvoya"
+                />
+              </div>
+
+              <div class="col-lg-4 mb-4 mb-lg-0">
+                <img
+                  src="./img/Weston.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Weston"
+                />
+
+                <img
+                  src="./img/Vincent_Van_Gore.png"
+                  class="w-100 shadow-1-strong rounded mb-4"
+                  alt="Vincent Van Gore"
+                />
+              </div>
+            </div>
+          </section>
+      </section>
+
+<!-----------------------------------------------CONTACTS----------------------------------------------->
+
+<section id="contacts" class="row">
+  <div class="container mx-auto col-lg-6 col-md-12 col-12 w-100">
+    <h1 class="py-5 text-center display-3">Where we are</h1>
+    <div class="row">
+      <div class="col pb-5">
+        <ul class="list-group">
+          <li class="list-group-item">Teléfono: 621 38 50 41</li>
+          <li class="list-group-item">Email: miguelangelavilarosas1@gmail.com</li>
+          <li class="list-group-item">Dirección: Álora, C/Ebro</li>
+        </ul>
+        <div class="ratio ratio-1x1">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3193.939624212818!2d-4.702864688489343!3d36.81996666646914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72eaf63d75a617%3A0xa1bcba5f15236a97!2sC.%20Ebro%2C%2029510%20Barriada%20Estaci%C3%B3n%2C%20M%C3%A1laga!5e0!3m2!1ses!2ses!4v1707212384267!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-12 col-12 w-md-100 p-5">
+
+        <form action="" method="post" class="border border-light p-5 rounded">
+          <h1>Contacto:</h1>
+
+          <div class="mb-3">
+            <label for="name" class="form-label fs-4">Name</label>
+            <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp">
+            <div id="nameHelp" class="form-text text-light fs-5">Introduce your name here.</div>
+          </div>
+
+          <div class="mb-3">
+            <label for="lastName" class="form-label fs-4">Last name</label>
+            <input type="text" class="form-control" id="lastName" name="lastName" aria-describedby="lastNameHelp">
+            <div id="lastNameHelp" class="form-text text-light fs-5">Introduce your last name here.</div>
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label fs-4">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div id="emailHelp" class="form-text text-light fs-5">Introduce your email here.</div>
+          </div>
+
+          <div class="mb-3">
+            <label for="province" class="form-label fs-4">Province</label>
+            <select class="form-select" aria-label="Default select example" id="province" name="province">
+              <option value="0">Select a province</option>
+              <option value="29">Malaga</option>
+              <option value="18">Granada</option>
+              <option value="4">Almeria</option>
+            </select>
+            <div id="emailHelp" class="form-text text-light fs-5">Select the province you live in.</div>
+          </div>
+
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="check" value="check">
+            <label class="form-check-label fs-5" for="exampleCheck1" data-bs-toggle="modal" data-bs-target="#staticBackdrop">I agree about the usage of my data</label>
+          </div>
+
+          <button type="submit" class="btn btn-primary fw-bold" for="check">Submit</button>
+        </form>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="staticBackdrop" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-scroll">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdrop">Modal title</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, impedit commodi architecto asperiores odit deserunt vitae. Placeat, modi sapiente? Quae ipsa dolores repudiandae commodi iste hic impedit maiores saepe cumque?
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-----------------------------------------------FOOTER----------------------------------------------->
+   
+    <footer class="bg-dark pt-2 pb-3">
+      <div class="container text-center">
+    
+        <div class="row">
+          <!--Footer Image-->
+          <div class="col-lg-4 col-md-4">
+            <img src="./img/Boo-icon.png" class="d-block mx-auto w-50" alt="Icono boo">
+          </div>
+          <!-- Footer sections -->
+          <div class="col-lg-4 col-md-4">
+            <div class="row text-center">
+              <div class="col-lg-12 mb-md-0 mt-2">
+                <a href="#history" class="btn btn-outline-success w-50 fs-3">History</a>
+              </div>
+              <div class="col-lg-12 mb-md-0 mt-2">
+                <a href="#bosses" class="btn btn-outline-success w-50 fs-3">Bosses</a>
+              </div>
+              <div class="col-lg-12 mb-md-0 mt-2">
+                <a href="#mansions" class="btn btn-outline-success w-50 fs-3">Mansions</a>
+              </div>
+              <div class="col-lg-12 mt-2">
+                <a href="#authors" class="btn btn-outline-success w-50 fs-3">Authors</a>
+              </div>
+              <div class="col-lg-12 mt-2">
+                <a href="#contacts" class="btn btn-outline-success w-50 fs-3">Contacts</a>
+              </div>
+              <div class="col-lg-12 mt-2">
+                <a href="#gallery" class="btn btn-outline-success w-50 fs-3">Gallery</a>
+              </div>
+            </div>
+          </div>
+      
+          <!-- My social networks -->
+          <div class="col-lg-4 col-md-4">
+            <div class="row mt-4">
+              <div class="col-md-12 text-center">
+                <p class="mb-2 fs-3">My social networks:</p>
+                <div class="row">
+                  <div class="col-lg-12 mb-md-0 mt-2 rounded">
+                    <a href="https://www.youtube.com/@bruxter1677" target="_blank" class="btn btn-danger">
+                      <i class="fa fa-youtube-play"></i>
+                    </a>
+                  </div>
+                  <div class="col-lg-12 mb-md-0 mt-4">
+                    <a href="https://www.linkedin.com/in/miguel-%C3%A1vila-8a86332a3/" target="_blank" class="btn btn-primary">
+                      <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
