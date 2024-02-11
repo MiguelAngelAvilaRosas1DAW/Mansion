@@ -30,15 +30,15 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 </ul>
 
 <h3>History</h3>
-<img src="./Readme-img/Readme-Hero.png" alt="Image of the 'Hero' section" style="width:50%">
+<img src="./Readme-img/Readme-History.png" alt="Image of the 'History' section" style="width:50%">
 <p>It shows a little summary of the main plot of the game, along with the reveal trailer that was shown in the E3 (a game convention).</p>
 
 <h3>Bosses</h3>
-<img src="./Readme-img/Readme-Synopsis.png" alt="Image of the 'Synopsis' section" style="width:50%">
+<img src="./Readme-img/Readme-Bosses.png" alt="Image of the 'Bosses' section" style="width:50%">
 <p>Is divided in 4 colums, in each one shows a description of the main boss of the area and how to defeat it, along with an image of the boss itself.</p>
 
 <h3>Mansions</h3>
-<img src="./Readme-img/Readme-OST.png" alt="Image of the 'OST' section" style="width:50%">
+<img src="./Readme-img/Readme-Mansions.png" alt="Image of the 'Mansions' section" style="width:50%">
 <p>In this section you can have a look at all the possible mansions that you can get in the game, that depends on how much money you have at he end.</p>
 
 <h3>Authors</h3>
@@ -47,12 +47,12 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 <a href="https://es.wikipedia.org/wiki/Kazumi_Totaka" target="_blank">Kazumi Totaka</a> and the main music composer <a href="https://es.wikipedia.org/wiki/Tadashi_Sugiyama" target="_blank">Tadashi Sugiyama</a></p>
 
 <h3>Ghost Gallery</h3>
-<img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
+<img src="./Readme-img/Readme-Gallery.png" alt="Image of the 'Ghost Gallery' section" style="width:50%">
 <p>In Luigi's mansion you can capture an entire ghost family, and once you do it, you turn them into pictures, so I decided to make a section with all
 the ghost pictures.</p>
 
 <h3>Contacts</h3>
-<img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
+<img src="./Readme-img/Readme-Contacts.png" alt="Image of the 'Contacts' section" style="width:50%">
 <p>In this section you'll find information to contact me, along with a space to regist in the page.</p>
 
 <h2 id="style">Page Style</h2>
