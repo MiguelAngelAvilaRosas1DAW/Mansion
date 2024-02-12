@@ -51,9 +51,9 @@ Nintendo was always used to show their console with a brand new Mario, but inste
 <p>In Luigi's mansion you can capture an entire ghost family, and once you do it, you turn them into pictures, so I decided to make a section with all
 the ghost pictures.</p>
 
-<h3>Contacts</h3>
-<img src="./Readme-img/Readme-Contacts.png" alt="Image of the 'Contacts' section" style="width:50%">
-<p>In this section you'll find information to contact me, along with a space to regist in the page.</p>
+<h3>Mansion Contest</h3>
+<img src="./Readme-img/Readme-Mansion_Contest.png" alt="Image of the 'Mansion Contest' section" style="width:50%">
+<p>We are making a contest to win a real Mansion! In this section you'll have all the info you need to know to participate</p>
 
 <h2 id="style">Page Style</h2>
 
